@@ -3,7 +3,7 @@
 **Proyecto Final — Electrofisiología Molecular I**  
 *Modelado computacional del impacto de la edición Q/R del receptor AMPA-GluA2 sobre la integración dendrítica y la excitotoxicidad en una neurona piramidal de la amígdala humana*
 
-Universidad de Guadalajara · CUCEI · 6.° semestre
+Universidad de Guadalajara · CUTlajo · 6.° semestre
 
 ---
 
