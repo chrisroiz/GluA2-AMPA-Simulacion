@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datos / figuras generadas (no subir los .png generados automáticamente)
+*.png
+*.pdf
+*.svg
+# Excepto los que se aprueben manualmente con git add -f
+
+# NEURON
+*.mod.bak
+x86_64/
+arm64/
+*.o
+
+# macOS
+.DS_Store
+
+# Archivos temporales
+*.tmp
+*.log
