@@ -88,4 +88,4 @@ Equipo 3 → Integración final
 
 ---
 
-*Proyecto académico — UdeG · CUCEI · 2026*
+*Proyecto académico — UdeG · CUTlajo· 2026*
