@@ -1,30 +1,48 @@
 # Python
 __pycache__/
 *.py[cod]
-*.egg-info/
+*$py.class
+*.so
+.Python
 .env
+.venv
+env/
 venv/
-.venv/
+*.egg-info/
+dist/
+build/
 
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Datos / figuras generadas (no subir los .png generados automáticamente)
-*.png
-*.pdf
-*.svg
-# Excepto los que se aprueben manualmente con git add -f
-
 # NEURON
-*.mod.bak
+*.o
+*.c
+*.mod
 x86_64/
 arm64/
-*.o
+i686/
+powerpc/
 
 # macOS
 .DS_Store
+.AppleDouble
+__MACOSX/
 
-# Archivos temporales
-*.tmp
+# Data (large files — usar Git LFS si >50MB)
+# Descomenta si trazas_NEURON.csv es demasiado grande:
+# data/trazas_NEURON.csv
+
+# Generated figures (se regeneran al correr el notebook)
+figures/Figura*.png
+figures/Figura*.svg
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
 *.log

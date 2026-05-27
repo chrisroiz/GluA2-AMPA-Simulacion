@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Modelado Computacional del Receptor AMPA-GluA2: Edición Q/R, Integración Dendrítica y Excitotoxicidad"
+abstract: >
+  Simulación electrofisiológica multiescala del impacto de la edición Q/R del
+  receptor AMPA-GluA2 (posición 607) sobre la integración dendrítica y la
+  excitotoxicidad en una neurona piramidal del núcleo amigdaloide central humano.
+  El análisis abarca tres niveles: potenciales de equilibrio (Nernst/GHK),
+  modelo de circuito RC, y simulación morfológica completa con NEURON.
+authors:
+  - family-names: Rojas
+    given-names: Christofer
+    email: christofer.rojas8028@alumnos.udg.mx
+    affiliation: "Universidad de Guadalajara, Centro Universitario de Ciencias Biológicas y Agropecuarias (CUCBA)"
+keywords:
+  - AMPA receptor
+  - GluA2
+  - Q/R editing
+  - ADAR2
+  - dendritic integration
+  - excitotoxicity
+  - NEURON simulation
+  - amygdala
+  - computational neuroscience
+  - electrophysiology
+license: MIT
+repository-code: "https://github.com/chrisroiz/GluA2-AMPA-Simulacion"
+date-released: "2026-05-26"
+version: "1.0.0"

@@ -1,0 +1,5 @@
+Métrica,RC_R,RC_Q,NEURON_R,NEURON_Q,Delta_NEURON
+baseline_mV,-70.0,-70.0,-67.318,-67.318,0.0
+amplitud_mV,0.0,0.0,13.172,15.151,1.979
+integral_mV_ms,0.0,0.0,1782.219,1993.402,211.183
+Vm_promedio_tren_mV,-70.0,-70.0,-59.118,-58.077,1.041
