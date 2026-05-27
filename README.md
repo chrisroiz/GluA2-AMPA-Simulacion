@@ -5,7 +5,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![NEURON](https://img.shields.io/badge/NEURON-8.x-green.svg)](https://neuron.yale.edu/)
 
-> **Asignatura:** Electrofisiología Molecular I · Universidad de Guadalajara (CUCBA)  
+> **Asignatura:** Electrofisiología Molecular I · Universidad de Guadalajara (CUTLAJO)  
 > **Modelo neuronal:** Neurona piramidal S1-8, núcleo amigdaloide central humano ([NeuroMorpho.org](https://neuromorpho.org))  
 > **Proteína:** GluA2 · UniProt [P42262](https://www.uniprot.org/uniprot/P42262) · PDB [4U2P](https://www.rcsb.org/structure/4U2P)
 
