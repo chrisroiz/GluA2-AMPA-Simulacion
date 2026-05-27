@@ -193,7 +193,7 @@ Este repositorio preserva el historial de desarrollo completo para transparencia
                   Integración Dendrítica y Excitotoxicidad en Neurona Piramidal Amigdalina},
   year         = {2026},
   publisher    = {GitHub},
-  institution  = {Universidad de Guadalajara, CUCBA},
+  institution  = {Universidad de Guadalajara},
   url          = {https://github.com/chrisroiz/GluA2-AMPA-Simulacion},
   note         = {Electrofisiología Molecular I — Proyecto Final}
 }
