@@ -215,7 +215,7 @@ Este repositorio preserva el historial de desarrollo completo para transparencia
 
 <div align="center">
 
-**Universidad de Guadalajara · CUCBA**  
+**Universidad de Guadalajara · CUTLAJO**  
 Electrofisiología Molecular I · 2026  
 
 *"Un solo aminoácido. Miles de consecuencias."*
